@@ -1,0 +1,16 @@
+a=int(input('print a'))
+b=int(input('print b'))
+sum=a+b
+sub=a-b
+mul=a*b
+div=a/b
+mod=a%b
+exp=a**b
+fd=a//b
+print('sum',sum)
+print('sub',sub)
+print('mul',mul)
+print('div',div)
+print('mod',mod)
+print(exp)
+print(fd)
